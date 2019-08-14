@@ -16,6 +16,7 @@
 > 3. python自然语言处理实战：核心技术与算法
 > 4. 机器学习方法
 > 5. 统计学习方法
+> 6. 用Python进行自然语言处理
 
 ## 算法类
 
@@ -39,17 +40,16 @@
 
 #### Python语言
 
-> 1. 编写高质量代码 改善Python程序的91个建议
-> 2. Python.Cookbook(第2版)中文版
-> 3. [Python高级编程].（法）莱德.扫描版
-> 4. Python标准库中文版
-> 5. Python核心编程(第2版)
-> 6. Python灰帽子
-> 7. python基础教程(第2版)
-> 8. Python源码剖析
+> 1. Python.Cookbook(第2版)中文版
+> 2. Python标准库中文版
+> 3. Python高级编程（法莱德）.扫描版
+> 4. Python核心编程(第2版)
+> 5. Python灰帽子
+> 6. python基础教程(第2版)
+> 7. Python源码剖析
+> 8. 编写高质量代码 改善Python程序的91个建议
 > 9. 利用Python进行数据分析
-> 10. 用Python进行自然语言处理
-> 11. 流畅的Python
+> 10. 流畅的Python
 
 #### Java语言
 
@@ -89,14 +89,15 @@
 
 #### Web技术
 
-> 1. JavaScript权威指南 第4版
-> 2. JavaScript权威指南(第六版)
-> 3. WebKit技术内幕（朱永盛著）
-> 4. 高性能网站建设进阶指南
-> 5. CSS权威指南《第3版》
-> 6. HTML5权威指南
-> 7. HTTP权威指南
-> 8. jQuery权威指南
+> 1. CSS权威指南(第3版)
+> 2. HTML5权威指南
+> 3. HTTP权威指南
+> 4. JavaScript权威指南(第4版)
+> 5. JavaScript权威指南(第6版)
+> 6. jQuery权威指南
+> 7. WebKit技术内幕(朱永盛著)
+> 8. 锋利的jquery
+> 9. 高性能网站建设进阶指南
 
 ## 数据库类
 
