@@ -1,6 +1,7 @@
 # eBook分享大集合
 
 - 主要以IT领域经典书籍收藏，以备不时之需。
+- - [x] 表示文件大小超过100M。
 
 ## 服务器系统类
 
@@ -111,10 +112,10 @@
 
 #### MySQL
 
-> 1. [MySQL技术内幕：SQL编程].姜承尧
 > 2. MySQL 5权威指南  （第3版）
 > 3. MYSQL必知必会
 > 4. MySQL技术内幕(第4版) 
+> 4. MySQL技术内幕：SQL编程（姜承尧）
 > 5. MySQL技术内幕InnoDB存储引擎
 > 6. 高性能MySQL_第3版（中文）
 
@@ -139,3 +140,24 @@
 ## 非书籍类
 
 > 1. C语言学习资料.exe
+
+# GitHub上传100M以上文件解决方案
+
+- 工具下载，详见[【官网】](https://git-lfs.github.com/)
+
+> [git-lfs-windows](https://github.com/git-lfs/git-lfs/releases/download/v2.8.0/git-lfs-windows-v2.8.0.exe)
+> [git-lfs-mac](https://github.com/git-lfs/git-lfs/releases/download/v2.8.0/git-lfs-darwin-amd64-v2.8.0.tar.gz)
+
+- 基本步骤及其命令
+
+```shell
+# 在项目中安装lfs
+$ git lfs install
+# 需要push的文件
+$ git lfs track "程序语言类\C&C++语言\C语言入门经典(第四版).（美）霍顿.pdf"
+$ git add .gitattributes
+$ git lfs track "程序语言类\C&C++语言\C语言入门经典(第四版).（美）霍顿.pdf"
+$ git add "程序语言类\C&C++语言\C语言入门经典(第四版).（美）霍顿.pdf"
+$ git commit -m "[add] add lfs ebook for C."
+$ git push origin master
+```
