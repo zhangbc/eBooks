@@ -1,7 +1,7 @@
 # eBook分享大集合
 
 - 主要以IT领域经典书籍收藏，以备不时之需。
-- - [x] 表示文件大小超过100M。
+- - [x] 表示文件大小超过100M（`LFS`）。
 
 ## 服务器系统类
 
@@ -21,9 +21,9 @@
 
 ## 算法类
 
-> 2. 编程之法面试和算法心得
-> 3. 编程珠玑(第2版)
-> 4. 大话数据结构
+> 1. 编程之法面试和算法心得
+> 2. 编程珠玑(第2版)
+> 3. 大话数据结构
 > 4. 数据结构(C语言版).严蔚敏_吴伟民.扫描版
 
 ## 网络类
@@ -112,9 +112,9 @@
 
 #### MySQL
 
-> 2. MySQL 5权威指南  （第3版）
-> 3. MYSQL必知必会
-> 4. MySQL技术内幕(第4版) 
+> 1. MySQL 5权威指南(第3版)
+> 2. MYSQL必知必会
+> 3. MySQL技术内幕(第4版) 
 > 4. MySQL技术内幕：SQL编程（姜承尧）
 > 5. MySQL技术内幕InnoDB存储引擎
 > 6. 高性能MySQL_第3版（中文）
@@ -141,11 +141,25 @@
 
 > 1. C语言学习资料.exe
 
+## LFS(100M+)
+
+- 由于 `GitHub` 是gitLFS属于付费产品，免费空间有限，不作上传处理。
+
+> - [x] 1. C语言入门经典(第四版).（美）霍顿
+> - [x] 2. PHP 核心技术与最佳实践
+> - [x]  3. C#范例开发大全
+> - [x] 4. C#核心开发技术从入门到精通
+> - [x] 5. 锋利的jquery
+> - [x] 6. Oracle+Database+11g数据库管理艺术
+> - [x] 7. SQL Server企业级平台管理实践
+> - [x] 8. 大话数据库
+
 # GitHub上传100M以上文件解决方案
 
 - 工具下载，详见[【官网】](https://git-lfs.github.com/)
 
 > [git-lfs-windows](https://github.com/git-lfs/git-lfs/releases/download/v2.8.0/git-lfs-windows-v2.8.0.exe)
+
 > [git-lfs-mac](https://github.com/git-lfs/git-lfs/releases/download/v2.8.0/git-lfs-darwin-amd64-v2.8.0.tar.gz)
 
 - 基本步骤及其命令

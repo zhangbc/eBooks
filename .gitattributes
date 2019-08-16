@@ -3,3 +3,6 @@
 程序语言类/C\#语言/C\#范例开发大全.pdf filter=lfs diff=lfs merge=lfs -text
 程序语言类/C\#语言/C\#核心开发技术从入门到精通.pdf filter=lfs diff=lfs merge=lfs -text
 程序语言类/Web技术/锋利的jquery.pdf filter=lfs diff=lfs merge=lfs -text
+数据库类/SQL[[:space:]]Server/SQL[[:space:]]Server企业级平台管理实践.pdf filter=lfs diff=lfs merge=lfs -text
+数据库类/SQL[[:space:]]Server/大话数据库.pdf filter=lfs diff=lfs merge=lfs -text
+数据库类/Oracle/Oracle+Database+11g数据库管理艺术.pdf filter=lfs diff=lfs merge=lfs -text
